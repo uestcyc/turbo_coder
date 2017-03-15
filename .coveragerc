@@ -1,0 +1,10 @@
+[run]
+branch = True
+
+[report]
+include=
+    channel.py
+    encode.py
+    interleave.py
+    decode.py
+    helpers.py
